@@ -1,0 +1,12 @@
+[package]
+name = "thecogumeta/tsrequire"
+description = "A utility to use roblox-ts packages in pure luau."
+version = "1.0.0"
+license = "MIT"
+authors = ["Cogu (@thecogumeta)"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+exclude = ["**"]
+include = ["lib", "lib/*", "default.project.json", "wally.toml", "wally.lock"]
+
+[dependencies]
