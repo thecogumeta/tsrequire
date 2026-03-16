@@ -20,7 +20,7 @@ or add this to your `wally.toml`:
 
 ```toml
 [dependencies]
-TSRequire = "thecogumeta/tsrequire@0.1.0"
+TSRequire = "thecogumeta/tsrequire@1.0.0"
 ```
 
 ## Usage
