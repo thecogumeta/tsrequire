@@ -7,6 +7,6 @@ authors = ["Cogu (@thecogumeta)"]
 realm = "shared"
 registry = "https://github.com/UpliftGames/wally-index"
 exclude = ["**"]
-include = ["lib", "lib/*", "default.project.json", "wally.toml", "wally.lock"]
+include = ["lib", "lib/*", "lib/**/*", "default.project.json", "wally.toml", "wally.lock"]
 
 [dependencies]
